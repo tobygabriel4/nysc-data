@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+    background-image: url(image/download.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+h1{
+    font-size: 30px;
+    font-style: normal;
+    background-color: black;
+    color: white;
+}
+
+h2{
+    font-size: 40px;
+    background-color: black;
+    color: white;
+}
+
+
+tr, th, td{
+    background-color: black;
+    border: 5px solid;
+    border-collapse: collapse;
+}
+
+table{
+    border: 5px solid;
+    width: 600px;
+    height: 200px;
+    border-collapse: collapse;
+    font-size: 20px;
+    text-align: center;
+    
+}
